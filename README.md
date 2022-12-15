@@ -4,7 +4,7 @@ RumzerJokes
 Extenstion
 
 
-<h4>How to Install & Run</h4>
+<h3>How to Install & Run</h3>
 <img align="center" src="https://i.ibb.co/ZBMf0VN/2022-12-16-03-11-05.gif">
 
 
