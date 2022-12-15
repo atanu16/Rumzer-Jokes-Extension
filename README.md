@@ -7,8 +7,10 @@ Extenstion
 <h3>How to Install & Run</h3>
 <img align="center" src="https://i.ibb.co/ZBMf0VN/2022-12-16-03-11-05.gif">
 
-<h3>Demo</h3>
+<h3>Demo & Interface</h3>
 <img align="center" src="https://i.ibb.co/WKMR1xn/2022-12-16-03-22-06.gif">
+<img align="center" src="https://i.ibb.co/t2Jdnbk/Screenshot-20221216-033141.png">
+
 
 
 
