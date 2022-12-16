@@ -10,7 +10,7 @@ Extenstion
 3. In Chrome/Edge go to the extensions page (`chrome://extensions` or `edge://extensions`).
 4. Enable Developer Mode.
 5. Drag the unzipped folder anywhere on the page to import it (do not delete the folder afterwards).
-6. 
+
 <img align="center" src="https://i.ibb.co/ZBMf0VN/2022-12-16-03-11-05.gif">
 
 <h3>Demo & Interface</h3>
